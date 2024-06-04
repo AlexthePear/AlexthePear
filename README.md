@@ -1,4 +1,8 @@
 ## Hey, I am Alexander Peras👋
+![NeonGlow-ezgif com-resize](https://github.com/AlexthePear/AlexthePear/assets/128564378/f1fa9f7e-962f-4543-8536-a648dd5ef738)
+
+
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AlexthePear?theme=dark&font=Actor&ext=heatmap)](https://leetcode.com/u/AlexthePear/)
 <!--
 **AlexthePear/AlexthePear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
