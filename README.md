@@ -11,9 +11,11 @@ struct AlexanderPeras {
 ```
 
 ## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexthePear&layout=donut-vertical&theme=tokyonight)
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AlexthePear?theme=dark&font=Actor&ext=heatmap)](https://leetcode.com/u/AlexthePear/)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexthePear&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexthePear&layout=compact&theme=tokyonight)
 
 
 <!--
