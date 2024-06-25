@@ -6,7 +6,7 @@ struct AlexanderPeras {
   public display_name = "AlexthePear";
   public university = "California State University Fullerton";
   public hobbies = ["Rock Climbing", "Anime", "Gaming"];
-  public aliases = ["Codekage", "#1 SWE"];
+  public aliases = ["Codekage"];
 }
 ```
 
