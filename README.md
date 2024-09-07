@@ -2,12 +2,15 @@
 ![NeonGlow-ezgif com-resize](https://github.com/AlexthePear/AlexthePear/assets/128564378/f1fa9f7e-962f-4543-8536-a648dd5ef738)
 
 ```cpp
+using std::string;
+using std::vector;
+
 struct AlexanderPeras {
     // Public members
-    std::string display_name = "AlexthePear";
-    std::string university = "California State University Fullerton";
-    std::vector<std::string> hobbies = {"Rock Climbing", "Anime", "Gaming"};
-    std::vector<std::string> aliases = {"Codekage"};
+    string display_name = "AlexthePear";
+    string university = "California State University Fullerton";
+    vector<string> hobbies = {"Rock Climbing", "Anime", "Gaming"};
+    vector<string> aliases = {"Codekage"};
 };
 ```
 
